@@ -1,3 +1,4 @@
+
 colour==0.1.5
 cvxpy==1.0.3
 cycler==0.10.0
@@ -13,3 +14,4 @@ scikit-learn==0.19.1
 six==1.11.0
 tqdm==4.19.5
 zipline==1.2.0
+

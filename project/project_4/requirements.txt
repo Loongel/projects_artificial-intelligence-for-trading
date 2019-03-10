@@ -1,4 +1,5 @@
 alphalens==0.3.2
+statsmodels==0.8.0
 colour==0.1.5
 cvxpy==1.0.3
 cycler==0.10.0
