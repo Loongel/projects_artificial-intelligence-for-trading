@@ -1,4 +1,4 @@
-conda create -n AITrading python=3.6.3 numpy=1.13.1 matplotlib ipykernel
+conda create -n AITrading python=3.6.3 numpy=1.16.1 matplotlib ipykernel
 source activate AITrading
 pip install -r requirements.txt
 
