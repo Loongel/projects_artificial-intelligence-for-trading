@@ -105,3 +105,4 @@ ENV/
 
 # data
 data.zip
+/data
